@@ -31,7 +31,7 @@ This project was originally developed during my Class 12 as one of my first AI/N
 ![Chat](Screenshot_2026-07-17-11-44-40-69_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ### Intents
-![Intents](screenshots/intents.png)
+![Intents](Screenshot_2026-07-17-11-41-05-23_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ This project was originally developed during my Class 12 as one of my first AI/N
 ## 👨‍💻 Author
 **Nishesh Raj Singh**
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: *(https://www.linkedin.com/in/nishesh-raj-singh-5b5246372?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
 
 GitHub: https://github.com/yashsingh-07
 
