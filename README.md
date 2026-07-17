@@ -25,7 +25,7 @@ This project was originally developed during my Class 12 as one of my first AI/N
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome]()
+![Welcome](Screenshot_2026-07-17-11-35-39-44.jpg)
 
 ### Chat Example
 ![Chat](screenshots/chat.png)
