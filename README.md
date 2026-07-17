@@ -1,24 +1,64 @@
-# SportsBot 🤖⚽🏏
+# 🏆 SportsBot – Google Dialogflow ES Chatbot
 
-SportsBot is an AI chatbot built using Google Dialogflow ES.
+## 📌 Overview
+SportsBot is a conversational chatbot built using **Google Dialogflow ES**. It helps users learn about different sports by answering sports-related questions and providing information about career opportunities in various sports.
 
-## Features
-- Provides information about different sports
-- Answers sports-related questions
-- Shares career opportunities in various sports
-- Uses Dialogflow Intents and Training Phrases
-- Beginner conversational AI project
+This project was originally developed during my Class 12 as one of my first AI/NLP projects.
 
-## Technologies Used
+---
+
+## ✨ Features
+- ⚽ Answers questions about various sports
+- 🏏 Provides sports-related information
+- 🎯 Explains career opportunities in different sports
+- 💬 Uses Google's built-in Natural Language Processing (NLP) through Dialogflow ES
+- 🤖 Intent-based conversational chatbot
+
+---
+
+## 🛠️ Technologies Used
 - Google Dialogflow ES
 - Google's built-in Natural Language Processing (NLP)
-- Intent-based conversation design
 
-## Future Improvements
+---
+
+## 📸 Screenshots
+
+### Welcome Screen
+![Welcome]()
+
+### Chat Example
+![Chat](screenshots/chat.png)
+
+### Intents
+![Intents](screenshots/intents.png)
+
+---
+
+## 🚀 Future Improvements
 - Live sports scores using APIs
 - Player statistics
 - Sports news integration
-- Generative AI support (Gemini/OpenAI)
+- Website deployment
+- Gemini/OpenAI integration for more intelligent conversations
 
-## Author
-Nishesh Raj Singh
+---
+
+## 📂 How to Use
+1. Download the Dialogflow agent ZIP.
+2. Import it into Google Dialogflow ES.
+3. Train the agent if required.
+4. Test the chatbot using the Dialogflow simulator.
+
+---
+
+## 👨‍💻 Author
+**Nishesh Raj Singh**
+
+LinkedIn: *(Add your LinkedIn profile here)*
+
+GitHub: https://github.com/yashsingh-07
+
+---
+
+⭐ If you like this project, consider giving it a star!
