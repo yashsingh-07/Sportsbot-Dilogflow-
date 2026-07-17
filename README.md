@@ -28,7 +28,7 @@ This project was originally developed during my Class 12 as one of my first AI/N
 ![Welcome](Screenshot_2026-07-17-11-35-39-44.jpg)
 
 ### Chat Example
-![Chat](screenshots/chat.png)
+![Chat](Screenshot_2026-07-17-11-44-40-69_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ### Intents
 ![Intents](screenshots/intents.png)
